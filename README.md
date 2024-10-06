@@ -10,7 +10,8 @@ Hi! My name is Marco André, I am a systems development and I'm currently studyi
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
-
+   <img align="center" height="40" width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  
 </div>
   
   ##
