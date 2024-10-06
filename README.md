@@ -14,9 +14,7 @@ Hi! My name is Marco André, I am a systems development and I'm currently studyi
   
   ##
 <div> 
-  
-  <a href = ""><img height="27" src="https://img.shields.io/badge/marco.amds12@gmail.com-%231f2126?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/marco-andré-matos-526026224" target="_blank"><img height="27" src="https://img.shields.io/badge/LinkedIn-%231f2126?style=flat-square&logo=linkedin" target="_blank"></a> 
+
   
 </div>
 
